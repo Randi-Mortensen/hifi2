@@ -1,0 +1,24 @@
+{
+  "name": "hifi2",
+  "version": "1.0.0",
+  "description": "hifi skole project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randi-Mortensen/hifi2.git"
+  },
+  "keywords": [
+    "login",
+    "crud",
+    "api"
+  ],
+  "author": "Randi Mortensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randi-Mortensen/hifi2/issues"
+  },
+  "homepage": "https://github.com/Randi-Mortensen/hifi2#readme"
+}
